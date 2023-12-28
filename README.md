@@ -12,14 +12,14 @@
 ## Proyectos
 | Numero | Proyecto | Web | Estado
 | --- | --- | --- | --- |
-| `1` | Twitter Follow Card | <a href="https://twfollowcard.surge.sh">twfollowcard.surge.sh</a> | Finalizado ✅ |
-| `2` | Tic Tac Toe | <a href="https://tic-tac-toe-02.surge.sh">tic-tac-toe-02.surge.sh</a> | Finalizado ✅ |
-| `3` | Mouse Follow App | <a href="https://mousefollower.surge.sh">mousefollower.surge.sh</a> | Finalizado ✅ |
-| `4` | Movies App | NON | En Progreso...⚒️ | 
-| `5` | Carrito | NON | No Iniciado ❎ |
-| `6` | Todo App Con TS | NON | No Iniciado ❎ |
-| `7` | Google Translate Con ChatGPT + TS | NON | No Iniciado ❎ |
-| `8` | Crud Con Redux Toolkit + TS | NON | No Iniciado ❎ |
-| `9` | Prueba Tecnica Con TS + React + React Query | NON | No Iniciado ❎ |
-| `10` | Comentarios Con React Query | NON | No Iniciado ❎ |
-| `11` | Javscript Quiz Con TS + Zustand | NON | No Iniciado ❎ |
+|`1`| Twitter Follow Card | <a href="https://twfollowcard.surge.sh">twfollowcard.surge.sh</a> | Finalizado ✅ |
+|`2`| Tic Tac Toe | <a href="https://tic-tac-toe-02.surge.sh">tic-tac-toe-02.surge.sh</a> | Finalizado ✅ |
+|`3`| Mouse Follow App | <a href="https://mousefollower.surge.sh">mousefollower.surge.sh</a> | Finalizado ✅ |
+|`4`| Movies App | NON | En Progreso...⚒️ | 
+|`5`| Carrito | NON | No Iniciado ❎ |
+|`6`| Todo App Con TS | NON | No Iniciado ❎ |
+|`7`| Google Translate Con ChatGPT + TS | NON | No Iniciado ❎ |
+|`8`| Crud Con Redux Toolkit + TS | NON | No Iniciado ❎ |
+|`9`| Prueba Tecnica Con TS + React + React Query | NON | No Iniciado ❎ |
+|`10`| Comentarios Con React Query | NON | No Iniciado ❎ |
+|`11`| Javscript Quiz Con TS + Zustand | NON | No Iniciado ❎ |
