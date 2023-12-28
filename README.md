@@ -1,6 +1,6 @@
 # Curso de react
 
-<img src="https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg" widht=400 align="center" />
+<img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" widht=400 align="center" />
 
 ## Links
 🔗 Curso de <a href="https://github.com/midudev/aprendiendo-react">midudev</a>
