@@ -2,7 +2,7 @@
 
 <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" widht=400 align="center" />
 
-## Links
+## Enlaces
 🔗 Curso de <a href="https://github.com/midudev/aprendiendo-react">midudev</a>
 
 🎥 Twitch de <a href="https://www.twitch.tv/midudev">midudev</a>
@@ -10,7 +10,7 @@
 🧑‍💻 Mi Perfil de <a href="https://github.com/Pedro950728">Github</a> 
 
 ## Proyectos
-| Numero | Proyecto | Web | Status
+| Numero | Proyecto | Web | Estado
 | --- | --- | --- | --- |
 | 1 | Twitter Follow Card | <a href="https://twfollowcard.surge.sh">twfollowcard.surge.sh</a> | Finalizado ✅ |
 | 2 | Tic Tac Toe | <a href="https://tic-tac-toe-02.surge.sh">tic-tac-toe-02.surge.sh</a> | Finalizado ✅ |
