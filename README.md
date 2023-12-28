@@ -9,8 +9,7 @@
 
 🧑‍💻 Mi Perfil de <a href="https://github.com/Pedro950728">Github</a> 
 
-## ⌨️ Proyectos
-
+## Proyectos
 | Numero | Proyecto | Web | Status
 | --- | --- | --- | --- |
 | 1 | Twitter Follow Card | <a href="https://twfollowcard.surge.sh">twfollowcard.surge.sh</a> | Finalizado ✅ |
