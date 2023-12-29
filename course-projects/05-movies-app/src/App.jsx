@@ -1,10 +1,9 @@
 import './App.css'
-import results from '../mocks/with-result.json'
-import noResults from '../mocks/no-result.json' //eslint-disable-line
 import { Movies } from './components/Movies'
+import { useMovies } from './hooks/useMovies'
 
 function App () {
-  const movies = results.Search
+  const { movies } = useMovies()
   const hasMovies = movies?.length > 0
 
   return (
